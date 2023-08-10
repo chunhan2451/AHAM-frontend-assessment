@@ -1,0 +1,49 @@
+{
+  "funds": [
+    {
+      "id": 1,
+      "name": "Tech Growth Fund",
+      "description": "Invest in high-growth technology companies.",
+      "investmentType": "Equity",
+      "performance": 15.2,
+      "nav": 0.52,
+      "navCurrency": "AUD",
+      "historicalPerformance": [10, 12, 15, 18, 20, 22]
+    },
+    {
+      "id": 2,
+      "name": "Global Balanced Fund",
+      "description": "A diversified fund with global investments.",
+      "investmentType": "Mixed",
+      "performance": 7.8,
+      "nav": 0.26,
+      "navCurrency": "MYR",
+      "historicalPerformance": [10, 12, 15, 18, 20, 22]
+    },
+    {
+      "id": 3,
+      "name": "Green Energy Fund",
+      "description": "Support renewable energy projects worldwide.",
+      "investmentType": "Environmental",
+      "performance": 9.5,
+      "nav": 0.521,
+      "navCurrency": "SGD",
+      "historicalPerformance": [10, 12, 15, 18, 20, 22]
+    },
+    {
+      "id": 3,
+      "name": "America Equity Fund",
+      "description": "The Fund aims to provide investors with capital appreciation over medium to long term period.",
+      "investmentType": "Equity",
+      "performance": 9.5,
+      "nav": 0.521,
+      "navCurrency": "SGD",
+      "historicalPerformance": [10, 12, 15, 18, 20, 22]
+    }
+  ],
+  "investments": {
+    "fundId": "1",
+    "investmentAmount": 12,
+    "numberOfUnits": 1
+  }
+}
